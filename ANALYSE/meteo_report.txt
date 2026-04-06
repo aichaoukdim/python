@@ -1,0 +1,4 @@
+La ville Azilal a une température de 6°C et une humidité de 56%.
+La ville Casa a une température de 11°C et une humidité de 50%.
+La ville Rabat a une température de 21°C et une humidité de 53%.
+La ville Tanger a une température de 19°C et une humidité de 68%.
